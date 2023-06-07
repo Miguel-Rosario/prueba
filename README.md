@@ -18,4 +18,4 @@ Utilizaremos los comandos make, make write, make clean
     make clean    se usa para limpiar los archivos binarios .o  .bin 
 
 ## Diagrama de Hardware 
-![arm4 drawio (5)](https://github.com/Miguel-Rosario/prueba/assets/126648916/b9435be1-33c5-4e44-a88a-ce83cb1022f4)
+![lab6](https://github.com/Miguel-Rosario/prueba/assets/126648916/f3e39fec-8b3a-40a1-a48a-d640cd2c53fa)
