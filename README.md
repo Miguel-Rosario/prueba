@@ -10,6 +10,12 @@ En donde primero se inicializa una interrupcion y despues se ejecuta cada vez qu
 ### Configuracion "exti_isr.s"
 En este archivo se implementa rutinas de interrupción para los eventos EXTI0 y EXTI4. 
 
+### Compilacion del proyecto
+Utilizaremos los comandos make, make write, make clean
+
+    make          se usa para ensamblar (crear el binario   .bin)
+    make write    se usa para escribir en el microcontrolador(grabar)
+    make clean    se usa para limpiar los archivos binarios .o  .bin 
 
 ## Diagrama de Hardware 
 ![arm4 drawio (5)](https://github.com/Miguel-Rosario/prueba/assets/126648916/b9435be1-33c5-4e44-a88a-ce83cb1022f4)
